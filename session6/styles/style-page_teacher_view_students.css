@@ -1,0 +1,72 @@
+html, body{
+    background-color: greenyellow;
+}
+div{
+    background-color: greenyellow;
+}
+.listof-students{
+    max-height: 50vh;
+    min-height: 50vh;
+    overflow-y: scroll;
+}
+.student-applicants{
+    max-height: 50vh;
+    min-height: 50vh;
+    overflow-y: scroll;
+}
+.listof-students table{
+    width: 100%;
+    text-align: center;
+}
+.student-applicants table{
+    width: 100%;
+    text-align: center;
+}
+.listof-students tr{
+    border: solid 1px;
+}
+.student-applicants tr{
+    border: solid 1px;
+}
+.listof-students thead th{
+    position: sticky;
+    top: 0;
+    color: white;
+    background-color: green;
+}
+.student-applicants thead th{
+    position: sticky;
+    top: 0;
+    color: white;
+    background-color: green;
+}
+.show-student-face{
+    padding-top: 6vh;
+}
+.some-buttons{
+    padding-top: 12vh;
+}
+#return-btn{
+    width: 100%;
+}
+.show-student-details{
+    max-height: 47vh;
+    min-height: 47vh;
+    overflow-y: scroll;
+}
+.show-student-details table{
+    text-align: center;
+    width: 100%;
+}
+.show-student-details tr{
+    border: solid 1px;
+}
+.show-student-details thead th{
+    background-color: green;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+td{
+    background-color: white;
+}

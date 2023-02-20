@@ -1,0 +1,43 @@
+html, body{
+    background-color: greenyellow;
+}
+.created-question-section{
+    max-height: 50vh;
+    min-height: 45vh;
+    overflow-y: scroll;
+}
+.created-question-section table{
+    width: 100%;
+    text-align: center;
+}
+.created-question-section th{
+    background-color: green;
+    color: white;
+    top: 0;
+    position: sticky;
+}
+.created-question-section tr{
+    border: solid 1px;
+}
+.created-question-section td{
+    background-color: white;
+}
+div {
+    background-color: greenyellow;
+}
+.create-question-input {
+    padding-top: 2vh;
+}
+.create-question-input-textarea textarea{
+    width: 100%;
+}
+.create-question-input-interactives button{
+    width: 100%;
+    margin-bottom: 2vh;
+}
+#update-btn{
+    visibility: hidden;
+}
+#autocheck-textarea{
+    visibility: hidden;
+}

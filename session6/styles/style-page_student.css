@@ -1,0 +1,31 @@
+html, body{
+    background-color: greenyellow;
+}
+.button-interactives button{
+    width: 100%;
+    margin-top: 2vh;
+}
+.button-interactives img{
+    margin-top: 2vh;
+}
+.list-of-tasks{
+    max-height: 60vh;
+    overflow-y: scroll;
+}
+.list-of-tasks tr{
+    border: solid 1px;
+}
+.list-of-tasks th{
+    background-color: green;
+    color: white;
+    text-align: center;
+    top: 0;
+    position: sticky;
+}
+.list-of-tasks td{
+    background-color: white;
+    text-align: center;
+}
+div{
+    background-color: greenyellow;
+}

@@ -1,0 +1,38 @@
+html, body{background-color: rgb(2, 80, 2)}
+.account-settings{
+    background-color: green;
+}
+.account-title{
+    text-align: center;
+    background-color: greenyellow;
+}
+.account-settings-content{
+    text-align: center;
+    font-size: x-large;
+}
+.account-settings-content table{
+    width: 100%;
+    border-top: 5px solid;
+}
+.account-settings-content td{
+    border: 10px solid green;
+    width: 50%;
+    color: white;
+}
+.account-settings-content button{
+    width: 100%;
+}
+.cancel-area{
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgb(2, 80, 2);
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.cancel-area button{
+    font-size: 200%;
+    width: 50%;
+}
+#upload-img{
+    border-radius: 50%;
+}
