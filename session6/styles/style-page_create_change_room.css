@@ -1,0 +1,74 @@
+html, body{
+    background-color: greenyellow;
+}
+.create-change-room {
+  text-align: center;
+}
+.create-room-list table {
+  width: 100%;
+}
+.create-room-interactions button {
+  width: 100%;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+}
+.change-room-content table {
+  text-align: center;
+  width: 100%;
+}
+.change-room-title {
+  background-color: greenyellow;
+}
+.create-room-title {
+  background-color: greenyellow;
+}
+tbody {
+  background-color: white;
+}
+.create-room-list tr {
+  border: 1px solid;
+}
+.create-room-list th {
+  background-color: green;
+  color: white;
+}
+.create-interaction button{
+    width: 100%;
+}
+.delete-interaction button{
+    width: 100%;
+}
+.create-interaction input{
+    width: 49%;
+}
+.delete-interaction input{
+    width: 49%;
+}
+.change-room-content tr {
+  border: 1px solid;
+}
+.change-room-content th{
+  background-color: green;
+  color: white;
+}
+div {
+  background-color: greenyellow;
+}
+#insert-room-name{
+  display: none;
+}
+#insert-room-code{
+  display: none;
+}
+#insert-room-btn{
+  display: none;
+}
+#delete-room-name{
+  display: none;
+}
+#delete-room-code{
+  display: none;
+}
+#delete-room-btn{
+  display: none;
+}

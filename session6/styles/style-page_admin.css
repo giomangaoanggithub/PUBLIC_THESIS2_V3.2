@@ -1,0 +1,92 @@
+html,
+body {
+  background-color: green;
+}
+@font-face {
+  font-family: esctitle;
+  src: url("fonts/The Blast.otf");
+}
+.nav-bar {
+  background-color: rgb(153, 255, 0);
+}
+.LOGO {
+  font-family: esctitle;
+  -webkit-text-stroke: 1px whitesmoke;
+  text-align: center;
+}
+.table_placement {
+  width: 100%;
+}
+.table_placement th {
+  text-align: center;
+}
+.admin-content {
+  background-color: green;
+}
+.scrollable-tables {
+  overflow-y: scroll;
+  max-height: 50vh;
+}
+.scrollable-tables tbody {
+  overflow-y: scroll;
+}
+#profile-pic {
+  max-width: 50%;
+}
+.table-content {
+  width: 100%;
+  text-align: center;
+}
+.table-content thead th {
+  background-color: rgb(1, 80, 1);
+  color: white;
+  position: sticky;
+  top: 0;
+  text-align: center;
+}
+.table-content tr {
+  border-collapse: collapse;
+  border: 1px solid;
+}
+.table-content tbody {
+  background-color: white;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
+.right-btns button {
+  margin-top: 2%;
+  width: 100%;
+}
+#connect-request table {
+  width: 100%;
+  text-align: center;
+}
+#connect-request th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#connect-request th {
+  color: white;
+}
+#connect-request button {
+  width: 20%;
+}
+#scrollable-conn-req {
+  overflow-y: scroll;
+  max-height: 50vh;
+}
+#scrollable-conn-req thead th{
+    position: sticky;
+    top: 0;
+    background-color: green;
+  }
+#scrollable-conn-req td {
+  background-color: white;
+}
+#scrollable-conn-req tr {
+  border-collapse: collapse;
+  border: 1px solid;
+}

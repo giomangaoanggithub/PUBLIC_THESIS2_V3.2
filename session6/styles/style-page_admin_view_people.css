@@ -1,0 +1,30 @@
+#output_user_details{
+    width: 50%;
+}
+.user_details th{
+    text-align: center;
+    color: white;
+    background-color: green;
+}
+.user_details tr td{
+    border: solid 1px;
+    text-align: center;
+    background-color: white;
+}
+.user_details table{
+    margin-bottom: 5vh;
+}
+#second-table{
+    overflow-y: scroll;
+    max-height: 60vh;
+}
+.some_buttons button{
+    width: 100%;
+    margin-top: 50vh;
+}
+div{
+    background-color: greenyellow;
+}
+html, body{
+    background-color: greenyellow;
+}

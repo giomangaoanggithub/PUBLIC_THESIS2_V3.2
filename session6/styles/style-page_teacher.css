@@ -1,0 +1,77 @@
+html,
+body {
+  background-color: green;
+}
+.enter-company {
+  text-align: center;
+  color: white;
+  padding-top: 10rem;
+  background-color: green;
+}
+.enter-company input[type="password"] {
+  width: 50%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-size: x-large;
+}
+#no-company {
+  width: 3%;
+}
+#in-company {
+  width: 45%;
+}
+.main-content {
+  background-color: green;
+  display: none;
+}
+.room-section-title {
+  text-align: center;
+  background-color: greenyellow;
+}
+.student_answer {
+  width: 80%;
+}
+.teacher_action {
+  width: 20%;
+}
+.right-content {
+  text-align: center;
+}
+.right-buttons button {
+  margin-bottom: 2%;
+  width: 100%;
+}
+#company_name {
+  width: 50%;
+  font-size: x-large;
+}
+#check-area h5{
+  color: white;
+}
+#check-area table{
+  min-width: 100%;
+}
+.height-limiter{
+  max-height: 40vh;
+  overflow-y: scroll;
+}
+.height-limiter h5{
+  padding-left: 2vh;
+  position: sticky;
+  top: 0;
+  background-color: green;
+}
+.height-limiter th{
+  padding-left: 2vh;
+  position: sticky;
+  top: 4vh;
+  color: white;
+  background-color: green;
+}
+.height-limiter td{
+  background-color: white;
+  padding-left: 2vh;
+}
+.height-limiter tr{
+  border: solid 1px;
+}
